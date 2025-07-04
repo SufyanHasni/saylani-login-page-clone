@@ -1,0 +1,41 @@
+body {
+    padding: 0px;
+    margin: 5px;
+}
+.main {
+    display: flex;
+}
+.page {
+    height: 1024px;
+    width:581px;
+    background-color: rgba(0, 32, 98, 1);
+    border-radius: 15px;
+}
+.logo {
+padding-top: 88px;
+padding-left: 89px;
+}
+.login {
+    height: 20px;
+      width: 402px;
+}
+h3 {
+   color: aliceblue;
+   text-align: center;
+ 
+}
+
+
+
+
+
+
+
+
+
+.img {
+    height: 1024px;
+    width:859px;
+    background-image: url(assets/main.jpg.jpg);
+    background-size: cover;
+}
